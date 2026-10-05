@@ -1,9 +1,5 @@
-# Family secret recipes
+# Family recipe
 
-Set of recipes as given by my grandma.
-
-<<<<<<< HEAD
+* sauce (TODO)
 * pizza (TODO)
-* sauces (TODO)
-* spreads (TODO)
-
+* toppings (TODO)
