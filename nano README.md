@@ -3,8 +3,8 @@
 Set of recipes as given by my grandma.
 <<<<<<< HEAD
 
-* izza (TODO)
-* suases (TODO)
-* reads (TODO)
+* pizza (TODO)
+* suaces (TODO)
+* spreads (TODO)
 =======
 >>>>>>> parent of 8e15c86 (Add an index by food categories)
