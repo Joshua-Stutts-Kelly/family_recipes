@@ -1,4 +1,4 @@
-# Family recipe
+# clan recipes
 
 * sauce (TODO)
 * pizza (TODO)
